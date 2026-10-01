@@ -189,6 +189,7 @@ This repository aims to be the ultimate collection of interior design resources.
 #### Room Planners
 - [RoomSketcher](https://www.roomsketcher.com/) — Online floor plan and home design tool with 3D walkthroughs
 - [Planner 5D](https://planner5d.com/) — Online interior design tool with AR capabilities and a large furniture library
+- [RoomMaker AI](https://roommakerai.org/) — AI room designer that redesigns a room from a photo, previews paint and flooring changes, stages furniture, and drafts floor plan concepts while keeping the original layout (commercial, free preview tier)
 - [Floor Planner](https://floorplanner.com/) — Easy-to-use browser-based floor plan creator, free tier available
 
 #### Measurement Tools & Calculators
